@@ -14,12 +14,12 @@ Esta placa foi desenvolvida para a utilização de CNC's de pequeno porte com en
 <h2> Projetos dos PCBs </h2>
 <table border="1">
     <tr>
-        <td>Placa</td>
+       
         <td>Projeto</td>
         <td>PCB Pronto</td>
     </tr>
     <tr>
-        <td>CPU</td>
+     
         <td><img src="https://github.com/Packduino/ESP32_GRBL_WIFI/blob/main/frente.png" alt="CPU 3D" width="400" height="400"></td>
         <td><img src="https://github.com/Packduino/ESP32_GRBL_WIFI/blob/main/foto2.jpg" alt="CPU REAL" width="400" height="400"></td>
     </tr>
